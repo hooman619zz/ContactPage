@@ -1,0 +1,15 @@
+.git
+.gitignore
+.vercel
+.next
+node_modules
+*.md
+*.mdx
+.tmp
+.temp
+.cache
+.DS_Store
+*.pem
+*.log
+.npmrc
+.env*
